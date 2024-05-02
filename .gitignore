@@ -1,0 +1,49 @@
+# Dependency directories
+node_modules/
+.cache/
+dist/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+build/
+out/
+.next/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# npm package locks
+package-lock.json
+yarn.lock
+.pnpm-lock.yaml
+
+# Editor specific files
+*.swp
+*.swo
+*.swn
+
+# Jest coverage output
+coverage/
+
+# Custom ignore patterns
+# Add your custom ignore patterns here
+
+# Ignore files inside specific directories
+# Add specific directories to ignore their contents
+
+# Ignore specific files
+# Add specific files to ignore
